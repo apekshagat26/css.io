@@ -1,0 +1,17 @@
+.mydiv{
+    margin-left: 10px;
+    width: 55vw;
+    height: 73vh;
+    padding: 20px;
+    border: 1px solid blue;
+    background-image: url(./assets/images/OIP.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+}
+.heading{
+    color: white;
+}
+.para{
+    color: white;
+}
